@@ -1,0 +1,15 @@
+Source: turtlebot-doc-dev
+Section: science
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5),cdbs
+Standards-Version: 3.9.3
+
+Package: turtlebot-doc-dev
+Architecture: any
+Provides: turtlebot-doc-dev
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}
+Description: TurtleBot Hardware Development Documentation
+ This package provides hardware docs for the turtlebot

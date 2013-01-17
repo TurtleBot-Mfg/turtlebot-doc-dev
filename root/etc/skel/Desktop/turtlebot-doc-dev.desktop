@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=TurtleBot OSHW Docs
+Comment=TurtleBot Hardware Documentation
+URL=file:///usr/share/doc/turtlebot-dev/index.html
+Icon=/usr/share/doc/turtlebot/turtlebot-doc.svg
+X-Ubuntu-Gettext-Domain=turtlebot-doc-dev
+
